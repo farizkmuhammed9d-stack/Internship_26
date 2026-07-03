@@ -100,3 +100,10 @@ During this internship, I:
 I would like to thank the **IEEE Circuits and Systems Society (IEEE CASS)** for providing this valuable internship opportunity and helping me develop practical skills in digital IC design and VLSI.
 
 ---
+## Author
+
+*Fariz k Muhammed*
+
+Electronics Engineering Student
+
+ 
